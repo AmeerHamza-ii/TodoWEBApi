@@ -1,13 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApplication.API", "ToDoApplication.API\ToDoApplication.API.csproj", "{CEE1E066-DA8B-483E-AC04-8AFA0BF19856}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApplication.DAL", "ToDoApplication.DAL\ToDoApplication.DAL.csproj", "{BDD097D7-4483-47FD-9514-8CFE63EC3920}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoTasks.BLL", "ToDoTasks.BLL\ToDoTasks.BLL.csproj", "{4786B6E5-CD1F-4AA1-A9E8-84D76018264B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C089A294-5DF1-40F7-8D72-1B87596F911B}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
