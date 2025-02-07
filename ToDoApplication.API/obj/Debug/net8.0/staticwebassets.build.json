@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "iA9Gue/omcYnCaqWeBcRz4hgWutaOoMmv/L+6xhAMME=",
+  "Source": "ToDoApplication.API",
+  "BasePath": "_content/ToDoApplication.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

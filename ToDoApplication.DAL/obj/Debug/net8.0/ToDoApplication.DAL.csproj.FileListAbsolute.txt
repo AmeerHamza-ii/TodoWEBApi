@@ -1,0 +1,14 @@
+C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.DAL\bin\Debug\net8.0\ToDoApplication.DAL.deps.json
+C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.DAL\bin\Debug\net8.0\ToDoApplication.DAL.runtimeconfig.json
+C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.DAL\bin\Debug\net8.0\ToDoApplication.DAL.dll
+C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.DAL\bin\Debug\net8.0\ToDoApplication.DAL.pdb
+C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.DAL\obj\Debug\net8.0\ToDoApplication.DAL.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.DAL\obj\Debug\net8.0\ToDoApplication.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.DAL\obj\Debug\net8.0\ToDoApplication.DAL.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.DAL\obj\Debug\net8.0\ToDoApplication.DAL.AssemblyInfo.cs
+C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.DAL\obj\Debug\net8.0\ToDoApplication.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.DAL\obj\Debug\net8.0\ToDoApplication.DAL.dll
+C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.DAL\obj\Debug\net8.0\refint\ToDoApplication.DAL.dll
+C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.DAL\obj\Debug\net8.0\ToDoApplication.DAL.pdb
+C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.DAL\obj\Debug\net8.0\ToDoApplication.DAL.genruntimeconfig.cache
+C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.DAL\obj\Debug\net8.0\ref\ToDoApplication.DAL.dll

@@ -1,0 +1,15 @@
+C:\Users\ABC\source\repos\ToDoApplication\ToDoTasks.BLL\bin\Debug\net8.0\ToDoTasks.BLL.deps.json
+C:\Users\ABC\source\repos\ToDoApplication\ToDoTasks.BLL\bin\Debug\net8.0\ToDoTasks.BLL.dll
+C:\Users\ABC\source\repos\ToDoApplication\ToDoTasks.BLL\bin\Debug\net8.0\ToDoTasks.BLL.pdb
+C:\Users\ABC\source\repos\ToDoApplication\ToDoTasks.BLL\bin\Debug\net8.0\ToDoApplication.DAL.dll
+C:\Users\ABC\source\repos\ToDoApplication\ToDoTasks.BLL\bin\Debug\net8.0\ToDoApplication.DAL.pdb
+C:\Users\ABC\source\repos\ToDoApplication\ToDoTasks.BLL\obj\Debug\net8.0\ToDoTasks.BLL.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\ToDoApplication\ToDoTasks.BLL\obj\Debug\net8.0\ToDoTasks.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\ToDoApplication\ToDoTasks.BLL\obj\Debug\net8.0\ToDoTasks.BLL.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\ToDoApplication\ToDoTasks.BLL\obj\Debug\net8.0\ToDoTasks.BLL.AssemblyInfo.cs
+C:\Users\ABC\source\repos\ToDoApplication\ToDoTasks.BLL\obj\Debug\net8.0\ToDoTasks.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\ToDoApplication\ToDoTasks.BLL\obj\Debug\net8.0\ToDoTask.B8848F89.Up2Date
+C:\Users\ABC\source\repos\ToDoApplication\ToDoTasks.BLL\obj\Debug\net8.0\ToDoTasks.BLL.dll
+C:\Users\ABC\source\repos\ToDoApplication\ToDoTasks.BLL\obj\Debug\net8.0\refint\ToDoTasks.BLL.dll
+C:\Users\ABC\source\repos\ToDoApplication\ToDoTasks.BLL\obj\Debug\net8.0\ToDoTasks.BLL.pdb
+C:\Users\ABC\source\repos\ToDoApplication\ToDoTasks.BLL\obj\Debug\net8.0\ref\ToDoTasks.BLL.dll
