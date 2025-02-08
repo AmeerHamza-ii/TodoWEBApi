@@ -19,8 +19,9 @@ namespace ToDoApplication.DAL.Repository
             _context = context;
         }
 
-        public async Task<User> CreateUserAsync(User user)
+        public async Task<User> CreateUserAsync(User user, string roleName)
         {
+            
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
             return user;
@@ -55,6 +56,17 @@ namespace ToDoApplication.DAL.Repository
             await _context.Users.AddAsync(user);
             await _context.SaveChangesAsync();
         }
+
+        public async Task<List<User>> GetUsersAsync(int pageNumber, int pageSize)
+        {
+            return await _context.Users
+                .Where(u => u.IsDeleted == false || u.IsDeleted == null)
+                .Skip((pageNumber - 1) * pageSize) // Skip previous pages
+                .Take(pageSize) // Take only required records
+                .ToListAsync();
+        }
+
+
 
     }
 

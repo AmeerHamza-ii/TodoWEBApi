@@ -34,7 +34,7 @@
             }
 
             var otpCode = new Random().Next(100000, 999999).ToString(); // Generate OTP
-            var expiresAt = DateTime.Now.AddMinutes(5); // OTP expiry time (5 minutes)
+            var expiresAt = DateTime.Now.AddSeconds(60); // OTP expiry time (30 seconds)
 
             var otp = new Otp
             {
@@ -74,7 +74,7 @@
             if (otp != null && otp.ExpiresAt > DateTime.Now)
             {
                 // Resend the existing OTP if it's still valid
-                await SendOtpEmailAsync(otp.User.Email, otp.OtpCode);
+                //await SendOtpEmailAsync(otp.User.Email, otp.OtpCode);
                 return new OtpResponse { OtpId = otp.Id };
             }
             else

@@ -13,3 +13,4 @@ C:\Users\ABC\source\repos\ToDoApplication\ToDoTasks.BLL\obj\Debug\net8.0\ToDoTas
 C:\Users\ABC\source\repos\ToDoApplication\ToDoTasks.BLL\obj\Debug\net8.0\refint\ToDoTasks.BLL.dll
 C:\Users\ABC\source\repos\ToDoApplication\ToDoTasks.BLL\obj\Debug\net8.0\ToDoTasks.BLL.pdb
 C:\Users\ABC\source\repos\ToDoApplication\ToDoTasks.BLL\obj\Debug\net8.0\ref\ToDoTasks.BLL.dll
+C:\Users\ABC\source\repos\ToDoApplication\ToDoTasks.BLL\obj\Debug\net8.0\ToDoTasks.BLL.sourcelink.json

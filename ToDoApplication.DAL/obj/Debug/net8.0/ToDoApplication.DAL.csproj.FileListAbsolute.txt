@@ -12,3 +12,4 @@ C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.DAL\obj\Debug\net8.0\r
 C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.DAL\obj\Debug\net8.0\ToDoApplication.DAL.pdb
 C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.DAL\obj\Debug\net8.0\ToDoApplication.DAL.genruntimeconfig.cache
 C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.DAL\obj\Debug\net8.0\ref\ToDoApplication.DAL.dll
+C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.DAL\obj\Debug\net8.0\ToDoApplication.DAL.sourcelink.json

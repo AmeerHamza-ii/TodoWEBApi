@@ -56,5 +56,18 @@ namespace ToDoApplication.DAL.Repository
             await _context.SaveChangesAsync();
         }
 
+        public async System.Threading.Tasks.Task InvalidatePreviousOtpsAsync(int userId)
+        {
+            var otps = await _context.Otps
+                .Where(o => o.UserId == userId && o.ExpiresAt > DateTime.Now)
+                .ToListAsync();
+
+            foreach (var otp in otps)
+            {
+                otp.ExpiresAt = DateTime.Now; // Mark previous OTPs as expired
+            }
+
+            await _context.SaveChangesAsync();
+        }
     }
 }

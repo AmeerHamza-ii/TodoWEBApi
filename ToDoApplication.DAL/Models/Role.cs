@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ToDoApplication.DAL.Models;
+[Table("roles")]
 
 public partial class Role
 {

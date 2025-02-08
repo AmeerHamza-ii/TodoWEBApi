@@ -143,3 +143,4 @@ C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.API\obj\Debug\net8.0\r
 C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.API\obj\Debug\net8.0\ToDoApplication.API.pdb
 C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.API\obj\Debug\net8.0\ToDoApplication.API.genruntimeconfig.cache
 C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.API\obj\Debug\net8.0\ref\ToDoApplication.API.dll
+C:\Users\ABC\source\repos\ToDoApplication\ToDoApplication.API\obj\Debug\net8.0\ToDoApplication.API.sourcelink.json

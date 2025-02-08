@@ -1,10 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ToDoApplication.DAL.Models;
 
-public partial class User
+[Table("users")]
+public class User
 {
+    [Key]
     public int Id { get; set; }
 
     public string? FirstName { get; set; }
@@ -21,11 +25,12 @@ public partial class User
 
     public bool? IsDeleted { get; set; }
 
-    public virtual ICollection<Otp> Otps { get; set; } = new List<Otp>();
+    public  ICollection<Otp> Otps { get; set; } = new List<Otp>();
 
-    public virtual Role Role { get; set; } = null!;
+    public  Role Role { get; set; } = null!;
 
-    public virtual ICollection<Task> Tasks { get; set; } = new List<Task>();
+    public  ICollection<Task> Tasks { get; set; } = new List<Task>();
 
-    public virtual ICollection<UserActivity> UserActivities { get; set; } = new List<UserActivity>();
+    public  ICollection<UserActivity> UserActivities { get; set; } = new List<UserActivity>();
+   
 }

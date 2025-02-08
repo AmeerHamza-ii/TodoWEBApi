@@ -1,7 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ToDoApplication.DAL.Models;
+
+[Table("task")]
 
 public partial class Task
 {

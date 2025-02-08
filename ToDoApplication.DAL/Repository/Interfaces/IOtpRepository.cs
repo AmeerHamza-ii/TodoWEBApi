@@ -15,5 +15,7 @@ namespace ToDoApplication.DAL.Repository.Interfaces
         System.Threading.Tasks.Task AddAsync(Otp otp);
         Task<Otp> GetActiveOtpByUserIdAsync(int userId);
          System.Threading.Tasks.Task UpdateAsync(Otp otp);
+        System.Threading.Tasks.Task InvalidatePreviousOtpsAsync(int userId);
+
     }
 }

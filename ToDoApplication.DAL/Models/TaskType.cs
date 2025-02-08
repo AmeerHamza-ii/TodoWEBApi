@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ToDoApplication.DAL.Models;
+[Table("taskType")]
 
 public partial class TaskType
 {
